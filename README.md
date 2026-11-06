@@ -26,8 +26,12 @@ first time. Click **More info**, then **Run anyway**.
 
 - Pick a country or list with the button at the top right; choose a channel
   from the list.
-- Space: play or pause. Up and Down: change channel. F: full screen layout,
-  Esc: leave it. Move the mouse to show the controls.
+- Space: play or pause. Up and Down: change channel. Left and Right: volume,
+  M: mute. F: full screen layout, Esc: leave it. Move the mouse to show the
+  controls.
+- Search channels with the magnifier, or Ctrl+F. Enter plays the first match.
+- Tap a heart to add a favorite. The Favorites tab keeps them from every
+  country and list, and plays them from wherever you are.
 - To watch your own playlist or account, open the list menu and choose
   "Add IPTV link".
 
